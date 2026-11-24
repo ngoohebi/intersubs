@@ -1,0 +1,11 @@
+{
+  "name": "intertitles-checks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/playback.test.js"
+  },
+  "devDependencies": {
+    "playwright": "1.65.1"
+  }
+}
