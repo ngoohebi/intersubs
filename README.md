@@ -5,7 +5,7 @@ Intersubs is a Chrome extension for watching with two subtitle languages. It dis
 ## Install in desktop Chrome
 
 1. Open `chrome://extensions` and turn on **Developer mode**.
-2. Click **Load unpacked** and select the **extension** folder in this project.
+2. Run `npm run build`, then click **Load unpacked** and select the **dist** folder.
 3. Reload the streaming tab, start a title, and click **Intersubs** in Chrome’s Extensions menu. Pin it for quick access.
 
 ## Choose your languages
